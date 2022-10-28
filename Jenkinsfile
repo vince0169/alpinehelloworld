@@ -1,6 +1,3 @@
-/* import shared library */
-@Library('eazytraining-shared-library')_
-
 pipeline {
      environment {
        IMAGE_NAME = "alpinehelloworld"
