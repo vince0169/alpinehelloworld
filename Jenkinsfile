@@ -1,5 +1,5 @@
 /* import shared library */
-@Library('eazytraining-shared-library')_
+@Library('vince0169-shared-library')_
 
 pipeline {
      environment {
